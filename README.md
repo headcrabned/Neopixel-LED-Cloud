@@ -9,7 +9,7 @@ will require changes to the the "strip" settings below.
 
 With 30 LEDs, it can be powered over USB, or a good 2A external phone charging battery connected to the arduino.
 
-To build, place in a folder named "Final_Demo", open "Final_Demo.ino" with the Arduino IDE.
+To build, place in a folder named "Cloud_Main", open "Cloud_Main.ino" with the Arduino IDE.
 In the Arduino IDE, select your matching board, and use the plugin manager to install the Adafruit_NeoPixel library.
 
 To construct a cloud, tape 2 wire coat hangers together, both upright with a right angle between them.
